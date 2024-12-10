@@ -1,0 +1,14 @@
+target/
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.out
+
+# Ignore Docker image artifacts
+*.tar
+
+# Maven
+*.class
+*.jar
+*.war
+*.ear
